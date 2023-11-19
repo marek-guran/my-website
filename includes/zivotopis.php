@@ -8,7 +8,7 @@
 
         <div class="title-wrapper">
             <div class="icon-box">
-                <ion-icon name="book-outline"></ion-icon>
+                <i class="fas fa-book"></i>
             </div>
 
             <h3 class="h3">Vzdelanie</h3>
@@ -48,7 +48,7 @@
 
         <div class="title-wrapper">
             <div class="icon-box">
-                <ion-icon name="book-outline"></ion-icon>
+                <i class="fa-solid fa-briefcase"></i>
             </div>
 
             <h3 class="h3">Pracovné Skúsenosti</h3>
@@ -317,6 +317,64 @@
             </li>
 
         </ul>
+
+    </section>
+
+    <section class="timeline">
+
+        <div class="title-wrapper" style="margin-top: 20px;">
+            <div class="icon-box">
+                <i class="fa-solid fa-certificate"></i>
+            </div>
+
+            <h3 class="h3">Certifikácie</h3>
+        </div>
+
+        <ol class="timeline-list">
+
+            <li class="timeline-item">
+                <h4 class="h4 timeline-item-title"><strong>Google Play Academy</strong> - Store Listing Certificate</h4>
+                <span><strong>Platnosť:</strong> Január 2023 — Január 2026</span>
+                <a href="https://www.credential.net/ab9af4a6-d9e3-43cc-a3b4-f3526e250a07" target="_blank">
+                    <img src="./assets/certificates/play-store.webp" alt="Play Store Certificate" loading="lazy"
+                        style="width: 350px !important; border-radius: 20px!important;">
+                </a>
+            </li>
+
+            <li class="timeline-item">
+                <h4 class="h4 timeline-item-title"><strong>LinkedIn</strong> - Improve Your Skills as a Microsoft 365
+                    Enterprise Administrator</h4>
+                <span><strong>Platnosť:</strong> November 2021 — Neexpiruje</span>
+                <a href="https://www.linkedin.com/learning/certificates/ad2fdfa1dd0ae02f48f76cb0317d106d6da4dcb6e7de2cc0bce5fdaacfdb59a7"
+                    target="_blank">
+                    <img src="./assets/certificates/MS365.webp" alt="LinkedIn Ms-365 Certificate" loading="lazy"
+                        style="width: 350px !important; border-radius: 20px!important;">
+                </a>
+            </li>
+
+            <li class="timeline-item">
+                <h4 class="h4 timeline-item-title"><strong>Google</strong> - Základy Digitálneho Marketingu</h4>
+                <span><strong>Platnosť:</strong> November 2021 — Neexpiruje</span>
+                <img src="./assets/certificates/digital-marketing.webp" alt="Digital Marketing Certificate" loading="lazy"
+                    style="width: 350px !important; border-radius: 20px!important;">
+            </li>
+
+            <li class="timeline-item">
+                <h4 class="h4 timeline-item-title"><strong>Coursera</strong> - Google IT Support Specialization</h4>
+                <span><strong>Platnosť:</strong> Október 2021 — Neexpiruje</span>
+                <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/534UXK2JHUEK"
+                    target="_blank">
+                    <img src="./assets/certificates/google-it.webp" alt="Google IT Certificate" loading="lazy"
+                        style="width: 350px !important; border-radius: 20px!important;">
+                </a>
+            </li>
+
+            <li class="timeline-item">
+                <h4 class="h4 timeline-item-title"><strong>Erasmus+</strong> - Certificate Of Recognition For Acquired Experience And  Competences</h4>
+                <span><strong>Platnosť:</strong> Apríl 2018 — Neexpiruje</span>
+            </li>
+
+        </ol>
 
     </section>
 

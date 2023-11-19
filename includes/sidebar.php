@@ -10,7 +10,7 @@
         </div>
         <button class="info_more-btn" data-sidebar-btn>
             <span>Kontakt</span>
-            <ion-icon name="chevron-down"></ion-icon>
+            <i class="fa-solid fa-chevron-down"></i>
         </button>
     </div>
 
@@ -23,7 +23,7 @@
             <li class="contact-item">
 
                 <div class="icon-box">
-                    <ion-icon name="mail-outline"></ion-icon>
+                    <i class="fas fa-envelope"></i>
                 </div>
 
                 <div class="contact-info">
@@ -37,7 +37,7 @@
             <li class="contact-item">
 
                 <div class="icon-box">
-                    <ion-icon name="calendar-outline"></ion-icon>
+                    <i class="far fa-calendar-alt"></i>
                 </div>
 
                 <div class="contact-info">
@@ -51,7 +51,7 @@
             <li class="contact-item">
 
                 <div class="icon-box">
-                    <ion-icon name="location-outline"></ion-icon>
+                    <i class="fas fa-map-marker-alt"></i>
                 </div>
 
                 <div class="contact-info">
@@ -70,19 +70,19 @@
 
             <li class="social-item">
                 <a href="https://github.com/marek-guran" class="social-link" target="_blank">
-                    <ion-icon name="logo-github"></ion-icon>
+                    <i class="fab fa-github"></i>
                 </a>
             </li>
 
             <li class="social-item">
                 <a href="https://www.linkedin.com/in/marek-guran/" class="social-link" target="_blank">
-                    <ion-icon name="logo-linkedin"></ion-icon>
+                    <i class="fab fa-linkedin"></i>
                 </a>
             </li>
 
             <li class="social-item">
                 <a href="https://mastodon.social/@marek_guran" class="social-link" target="_blank">
-                    <ion-icon name="logo-mastodon"></ion-icon>
+                    <i class="fab fa-mastodon"></i>
                 </a>
             </li>
 

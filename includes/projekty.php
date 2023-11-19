@@ -37,7 +37,7 @@
                 <div class="select-value" data-selecct-value>Vybrať kategóriu</div>
 
                 <div class="select-icon">
-                    <ion-icon name="chevron-down"></ion-icon>
+                    <i class="fa-solid fa-chevron-down"></i>
                 </div>
 
             </button>
@@ -75,7 +75,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/bc-praca.png" alt="lineage" loading="lazy">
@@ -93,7 +93,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/server-info.png" alt="lineage" loading="lazy">
@@ -111,7 +111,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/teplomer.png" alt="lineage" loading="lazy">
@@ -129,7 +129,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/Raspberry-Pi-Monitoring.png" alt="lineage" loading="lazy">
@@ -147,7 +147,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/druhy-web.png" alt="lineage" loading="lazy">
@@ -165,7 +165,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/pocasie-iot.jpg" alt="lineage" loading="lazy">
@@ -183,7 +183,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/prvy-web.png" alt="lineage" loading="lazy">
@@ -201,7 +201,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/rozvrh.png" alt="lineage" loading="lazy">
@@ -220,7 +220,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/tzi.png" alt="lineage" loading="lazy">
@@ -239,7 +239,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/piskvorky.png" alt="lineage" loading="lazy">
@@ -257,7 +257,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/zivotopis.png" alt="lineage" loading="lazy">
@@ -275,7 +275,7 @@
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
-                            <ion-icon name="eye-outline"></ion-icon>
+                            <i class="fa-regular fa-eye"></i>
                         </div>
 
                         <img src="./assets/images/projekty/lineage.png" alt="lineage" loading="lazy">
