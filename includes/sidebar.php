@@ -69,20 +69,20 @@
         <ul class="social-list">
 
             <li class="social-item">
-                <a href="https://github.com/marek-guran" class="social-link" target="_blank">
-                    <i class="fab fa-github"></i>
+                <a href="https://github.com/marek-guran" class="social-link" target="_blank" title="Github">
+                    <i class="fab fa-github github-icon"></i>
                 </a>
             </li>
 
             <li class="social-item">
-                <a href="https://www.linkedin.com/in/marek-guran/" class="social-link" target="_blank">
-                    <i class="fab fa-linkedin"></i>
+                <a href="https://www.linkedin.com/in/marek-guran/" class="social-link" target="_blank" title="LinkedIn">
+                    <i class="fab fa-linkedin linkedin-icon"></i>
                 </a>
             </li>
 
             <li class="social-item">
-                <a href="https://mastodon.social/@marek_guran" class="social-link" target="_blank">
-                    <i class="fab fa-mastodon"></i>
+                <a href="https://mastodon.social/@marek_guran" class="social-link" target="_blank" title="Mastodon">
+                    <i class="fab fa-mastodon mastodon-icon"></i>
                 </a>
             </li>
 

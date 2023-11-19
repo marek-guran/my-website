@@ -143,7 +143,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web dizajn">
-                <a href="https://github.com/marek-guran/marek-guran.github.io/tree/moving-hosting" target="_blank">
+                <a href="../assets/projects/druhy-web/" target="_blank">
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">
@@ -179,7 +179,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web dizajn">
-                <a href="https://github.com/marek-guran/marek-guran.github.io/tree/archived-version-1" target="_blank">
+                <a href="../assets/projects/prvy-web/" target="_blank">
 
                     <figure class="project-img">
                         <div class="project-item-icon-box">

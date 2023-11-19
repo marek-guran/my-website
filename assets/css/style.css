@@ -1863,3 +1863,19 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+.github-icon, .linkedin-icon, .mastodon-icon {
+  font-size: 24px!important;
+}
+
+.github-icon:hover {
+  color: #fafafa!important; /* Github logo color */
+}
+
+.linkedin-icon:hover {
+  color: #0e76a8!important; /* LinkedIn logo color */
+}
+
+.mastodon-icon:hover {
+  color: #6364FF!important; /* Mastodon logo color */
+}

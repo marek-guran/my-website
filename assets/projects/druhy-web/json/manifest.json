@@ -1,0 +1,46 @@
+{
+    "name": "Marek Guráň",
+    "short_name": "Marek",
+    "start_url": "/",
+    "background_color": "#101010",
+    "theme_color": "#191919",
+    "icons": [
+        {
+            "src": "ikona.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "ikona2.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "ikona3.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        }
+    ],
+    "display": "standalone",
+    "orientation": "any",
+
+    "screenshots" : [
+        {
+          "src": "pc_ukazka.png",
+          "sizes": "1920x1080",
+          "type": "image/png",
+          "platform": "wide",
+          "label": "Domovská stránka na veľkých obrazovkách"
+        },
+        {
+          "src": "mobilna_ukazka.png",
+          "sizes": "1080x2400",
+          "type": "image/png",
+          "platform": "narrow",
+          "label": "Domovská stránka na malých obrazovkách"
+        }
+      ]
+}
