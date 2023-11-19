@@ -104,7 +104,7 @@
 
 @font-face {
   font-family: 'Nunito';
-  src: url('../fonts/nunito/nunito.ttf') format('truetype');
+  src: url('../../fonts/nunito/nunito.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
