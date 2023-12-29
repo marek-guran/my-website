@@ -1879,3 +1879,32 @@ textarea.form-input::-webkit-resizer { display: none; }
 .mastodon-icon:hover {
   color: #6364FF!important; /* Mastodon logo color */
 }
+
+.certificate-image {
+  width: 350px; 
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 450px) {
+  .certificate-image {
+      width: 300px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .certificate-image {
+      width: 250px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .certificate-image {
+      width: 200px;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .certificate-image {
+      width: 150px;
+  }
+}
