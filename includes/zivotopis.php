@@ -327,17 +327,32 @@
                 <i class="fa-solid fa-certificate"></i>
             </div>
 
-            <h3 class="h3">Certifikácie</h3>
+            <h3 class="h3">Certifikácie a Kurzy</h3>
         </div>
 
         <ol class="timeline-list">
+
+            <li class="timeline-item">
+                <h4 class="h4 timeline-item-title"><strong>Katolícka univerzita v Ružomberku</strong> - Optokomunikačné
+                    Informačné Systémy</h4>
+                <span><strong>Platnosť:</strong> Január 2024 — Neexpiruje</span>
+                <img src="./assets/certificates/optika.webp" alt="Play Store Certificate" loading="lazy"
+                    class="certificate-image">
+            </li>
+
+            <li class="timeline-item">
+                <h4 class="h4 timeline-item-title"><strong>TM - Consulting s.r.o</strong> - IT Security</h4>
+                <span><strong>Platnosť:</strong> Jún 2023 — Neexpiruje</span>
+                <img src="./assets/certificates/it-security.webp" alt="Play Store Certificate" loading="lazy"
+                    class="certificate-image">
+            </li>
 
             <li class="timeline-item">
                 <h4 class="h4 timeline-item-title"><strong>Google Play Academy</strong> - Store Listing Certificate</h4>
                 <span><strong>Platnosť:</strong> Január 2023 — Január 2026</span>
                 <a href="https://www.credential.net/ab9af4a6-d9e3-43cc-a3b4-f3526e250a07" target="_blank">
                     <img src="./assets/certificates/play-store.webp" alt="Play Store Certificate" loading="lazy"
-                    class="certificate-image">
+                        class="certificate-image">
                 </a>
             </li>
 
@@ -348,15 +363,15 @@
                 <a href="https://www.linkedin.com/learning/certificates/ad2fdfa1dd0ae02f48f76cb0317d106d6da4dcb6e7de2cc0bce5fdaacfdb59a7"
                     target="_blank">
                     <img src="./assets/certificates/MS365.webp" alt="LinkedIn Ms-365 Certificate" loading="lazy"
-                    class="certificate-image">
+                        class="certificate-image">
                 </a>
             </li>
 
             <li class="timeline-item">
                 <h4 class="h4 timeline-item-title"><strong>Google</strong> - Základy Digitálneho Marketingu</h4>
                 <span><strong>Platnosť:</strong> November 2021 — Neexpiruje</span>
-                <img src="./assets/certificates/digital-marketing.webp" alt="Digital Marketing Certificate" loading="lazy"
-                class="certificate-image">
+                <img src="./assets/certificates/digital-marketing.webp" alt="Digital Marketing Certificate"
+                    loading="lazy" class="certificate-image">
             </li>
 
             <li class="timeline-item">
@@ -365,13 +380,16 @@
                 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/534UXK2JHUEK"
                     target="_blank">
                     <img src="./assets/certificates/google-it.webp" alt="Google IT Certificate" loading="lazy"
-                    class="certificate-image">
+                        class="certificate-image">
                 </a>
             </li>
 
             <li class="timeline-item">
-                <h4 class="h4 timeline-item-title"><strong>Erasmus+</strong> - Certificate Of Recognition For Acquired Experience And  Competences</h4>
+                <h4 class="h4 timeline-item-title"><strong>Erasmus+</strong> - Certificate Of Recognition For Acquired
+                    Experience And Competences</h4>
                 <span><strong>Platnosť:</strong> Apríl 2018 — Neexpiruje</span>
+                <img src="./assets/certificates/erasmus.webp" alt="Play Store Certificate" loading="lazy"
+                    class="certificate-image">
             </li>
 
         </ol>
