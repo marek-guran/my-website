@@ -6,7 +6,7 @@
         </figure>
         <div class="info-content">
             <h1 class="name" title="Marek Guráň">Marek Guráň</h1>
-            <p class="title">Študent, Hobby Developer</p>
+            <p class="title">Hobby Developer</p>
         </div>
         <button class="info_more-btn" data-sidebar-btn>
             <span>Kontakt</span>

@@ -821,7 +821,9 @@ main {
 
 .skills-title { margin-bottom: 20px; }
 
-.skills-list { padding: 20px; }
+.skills-list { padding: 20px;
+
+  margin-bottom: 20px; }
 
 
 .skills-item:not(:last-child) { margin-bottom: 15px; }
@@ -834,7 +836,7 @@ main {
 }
 
 .skill .title-wrapper data {
-  color: var(--light-gray);
+  color: var(--light-gray)!important;
   font-size: var(--fs-7);
   font-weight: var(--fw-300);
 }
@@ -852,6 +854,9 @@ main {
   border-radius: inherit;
 }
 
+.empty-space  {
+  margin-bottom: 30px!important;
+}
 
 
 

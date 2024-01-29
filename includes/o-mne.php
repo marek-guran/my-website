@@ -6,13 +6,10 @@
 
     <section class="about-text">
         <p>
-            Som študentom vysokej školy, na ktorej študujem učiteľstvo jedno odborovej informatiky. Dosť
-            sa zaujímam o technológie a hardvér.
-        </p>
-
-        <p>
             Mojím cieľom je sa zdokonaľovať v technologickom odvetví, vylepšovať svoje schopnosti v oblasti písania
-            kódu. Medzi moje záľuby patrí vývoj Android Aplikácií a trochu tvorba webových stránok.
+            kódu.
+            <br><br>Medzi moje záľuby patrí vývoj Android Aplikácií, tvorba webových stránok a aplikácií, správa
+            domáceho Linuxového servera, vývoj softvéru a správa, údržba počítačového hardvéru.
         </p>
     </section>
 
@@ -31,10 +28,10 @@
                 </div>
 
                 <div class="service-content-box">
-                    <h4 class="h4 service-item-title">Web Dizajn</h4>
+                    <h4 class="h4 service-item-title">Webový Dizajn</h4>
 
                     <p class="service-item-text">
-                        Tvorba webových stránok s moderným dizajnom.
+                        Tvorba webových stránok/aplikácií s moderným dizajnom.
                     </p>
                 </div>
 
@@ -82,7 +79,7 @@
                     <h4 class="h4 service-item-title">Automatizácia</h4>
 
                     <p class="service-item-text">
-                        Čo sa dá automatizovať, tak si jednoducho vytvorím scripty aby som nestrácal čas.
+                        Zjednodušovanie si každodenných príkazov, úloh jednoduchými skriptami.
                     </p>
                 </div>
 
