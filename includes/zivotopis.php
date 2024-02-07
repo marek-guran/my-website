@@ -20,7 +20,7 @@
 
                 <h4 class="h4 timeline-item-title">Katolícka univerzita v Ružomberku</h4>
 
-                <span>2019 — 2024</span>
+                <span>2019 — trvá</span>
 
                 <p class="timeline-text">
                     Učiteľstvo Informatiky
