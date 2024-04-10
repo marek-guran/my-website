@@ -67,7 +67,7 @@
                     <div class="card-body">
                         <h1 class="mb-3">Štartovací bonus</h1>
                         <p class="text-muted d-inline" style="font-size: 1.25rem; color: black!important;">Ak chcete tiež začať zarábať s Honeygain, tak môžete použiť <strong>štartovací kód:</strong></p>
-                        <a href="https://r.Honeygain.me/SKEMG35220" target="_blank" class="d-inline ml-2">
+                        <a href="https://r.honeygain.me/SKEMG35220" target="_blank" class="d-inline ml-2">
                             <button class="btn btn-warning text-dark" style="box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15); border-radius: 18px!important;"><strong>Použiť Kód</strong></button>
                         </a>
                     </div>
