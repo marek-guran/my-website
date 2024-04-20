@@ -13,6 +13,9 @@
     <meta name="description"
         content="Oplatí sa Honeygain na slovensku? Čo je to Honeygain? Ako zarobiť pasívne s Honeygain?">
     <meta name="keywords" content="Honeygain, Slovensko, pasívny income, peniaze, zárobok, ByteLixir">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
 </head>
 
 <body class="bg-light">
@@ -95,7 +98,7 @@
                         <h2 class="mb-1">JumpTask štartovací bonus</h2>
                         <p class="text-muted d-inline" style="font-size: 1.25rem; color: black!important;">Bonusový kód
                             vám dá <strong>10% bonus</strong> na splnenie prvej úlohy:</p>
-                        <a href="https://www.jumptask.io/r/gexukevobunu" target="_blank" class="d-inline ml-2">
+                        <a href="https://www.jumptask.io/r/ficusorimehi" target="_blank" class="d-inline ml-2">
                             <button class="btn text-light"
                                 style="box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15); border-radius: 18px!important; background-color: #394f73!important;"><strong>Použiť
                                     Kód</strong></button>
