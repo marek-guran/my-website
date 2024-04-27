@@ -111,24 +111,10 @@
                         <h2 class="mb-1">ByteLixir štartovací bonus</h2>
                         <p class="text-muted d-inline" style="font-size: 1.25rem; color: black!important;">Momentálne sa
                             dá získať <strong>bonus 1$:</strong></p>
-                        <a href="https://accounts.binance.com/register?ref=879453858" target="_blank"
+                        <a href="https://bytelixir.com/r/3TQREZHJXXZ3" target="_blank"
                             class="d-inline ml-2">
                             <button class="btn text-light"
                                 style="box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15); border-radius: 18px!important; background-color: #563973;"><strong>Použiť
-                                    Kód</strong></button>
-                        </a>
-                    </div>
-                </div>
-                <div class="mt-3 card border-0 shadow-lg rounded"
-                    style="border-radius: 18px!important; background-color: #fce1c0;">
-                    <div class="card-body">
-                        <h2 class="mb-1">Binance registračný kód</h2>
-                        <p class="text-muted d-inline" style="font-size: 1.25rem; color: black!important;">Registračný
-                            kód:</p>
-                        <a href="https://accounts.binance.com/register?ref=879453858" target="_blank"
-                            class="d-inline ml-2">
-                            <button class="btn text-light"
-                                style="box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15); border-radius: 18px!important; background-color: #b59c7d;"><strong>Použiť
                                     Kód</strong></button>
                         </a>
                     </div>
