@@ -11,8 +11,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <meta name="description"
-        content="Oplatí sa Honeygain na slovensku? Čo je to Honeygain? Ako zarobiť pasívne s Honeygain?">
-    <meta name="keywords" content="Honeygain, Slovensko, pasívny income, peniaze, zárobok, ByteLixir">
+        content="Oplatí sa Honeygain na slovensku ako pasívny príjem? Na tejto stránke nájdete informácie či sa práve vám oplatí Honeygain, prípadne sa dočítate o alternatívach k tejto službe.">
+    <meta name="keywords" content="Honeygain, Slovensko, pasívny income, peniaze, zárobok, ByteLixir, pawnsapp, pawns.app, príjem">
+    <meta property="article:published_time" content="2024-05-01T16:40:00+00:00" />
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
@@ -42,7 +43,7 @@
                 <div class="embed-responsive w-100 h-100">
                     <iframe class="embed-responsive-item"
                         style="width: 100%; height: auto; border-radius: 18px!important; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15); min-height: 100%;"
-                        src="https://www.youtube.com/embed/PSByosJe17s" title="Čo je to Honeygain?"
+                        src="https://www.youtube.com/embed/MaRHoSE2dE8" title="Čo je to Honeygain?"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -112,6 +113,19 @@
                         <p class="text-muted d-inline" style="font-size: 1.25rem; color: black!important;">Momentálne sa
                             dá získať <strong>bonus 1$:</strong></p>
                         <a href="https://bytelixir.com/r/3TQREZHJXXZ3" target="_blank"
+                            class="d-inline ml-2">
+                            <button class="btn text-light"
+                                style="box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15); border-radius: 18px!important; background-color: #563973;"><strong>Použiť
+                                    Kód</strong></button>
+                        </a>
+                    </div>
+                </div>
+                <div class="mt-3 card border-0 shadow-lg rounded"
+                    style="border-radius: 18px!important; background-color:#5874ba;">
+                    <div class="card-body" style="color: white!important;">
+                        <h2 class="mb-1">Pawns.app štartovací bonus 3$</h2>
+                        <p class="text-muted d-inline" style="font-size: 1.25rem; color: white!important;">Za registráciu získate <strong>1$,</strong> po prvom výbere ďalší <strong>1$</strong> a po druhom výbere ďalší <strong>1$.</strong></p>
+                        <a href="https://pawns.app/?r=emgi2" target="_blank"
                             class="d-inline ml-2">
                             <button class="btn text-light"
                                 style="box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15); border-radius: 18px!important; background-color: #563973;"><strong>Použiť
